@@ -40,7 +40,7 @@ output application/json
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
-		<logger level="INFO" doc:name="Logger" doc:id="638518e1-249b-440f-bbfa-c3c107ad4e27" message='"git changes-new1"'/>
+		<logger level="INFO" doc:name="Logger" doc:id="638518e1-249b-440f-bbfa-c3c107ad4e27" message='"git changes-new1-teamcheck"'/>
 		<logger level="INFO" doc:name="Logger" doc:id="dbae0347-0a3d-4001-a2ba-8c0642f5377e" message="Total Length #[payload]" />
 	</flow>
 </mule>
